@@ -11,8 +11,9 @@ This document describes the steps taken to perform Assignment 07, which requires
 3.	Created an idea for the project – a simple log of drinks consumed.
 4.	Added the assignment header.
 5.	Started by importing pickle. See Figure 1.
- 
-Figure 1.
+
+![Figure 1](https://github.com/curraxuw/IntroToProg-Python-Mod07/blob/master/docs/Figure1.png?raw=true)
+#### Figure 1.
 
 6.	Added a message to the user that describes the purpose of the program. See Figure 2.
  
